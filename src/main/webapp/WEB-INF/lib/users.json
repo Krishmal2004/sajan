@@ -1,0 +1,95 @@
+{
+  "users": [
+    {
+      "username": "Krishmal2004",
+      "password": "password123",
+      "email": "krishmal@example.com",
+      "firstName": "Krishmal",
+      "lastName": "Kumar",
+      "dateRegistered": "2025-04-26 21:27:52",
+      "lastLogin": "2025-04-26 21:27:52",
+      "status": "active",
+      "userType": "VENDOR",
+      "registeredBy": "system",
+      "vendorDetails": {
+        "businessName": "Krishmal Photography",
+        "businessType": "PHOTOGRAPHY",
+        "description": "Professional photography services",
+        "contactNumber": "1234567890",
+        "services": ["photography", "videography"],
+        "rating": 4.8,
+        "reviewCount": 25
+      }
+    },
+    {
+      "username": "user123",
+      "password": "securepass",
+      "email": "user123@example.com",
+      "firstName": "John",
+      "lastName": "Doe",
+      "dateRegistered": "2025-04-26 21:27:52",
+      "lastLogin": "2025-04-26 21:27:52",
+      "status": "active",
+      "userType": "BUYER",
+      "registeredBy": "system"
+    },
+    {
+      "username": "krish252",
+      "password": "123456",
+      "email": "krish@gmail.com",
+      "firstName": "krishmal",
+      "lastName": "dinidu",
+      "dateRegistered": "2025-04-26 21:27:52",
+      "lastLogin": "2025-04-26 21:27:52",
+      "status": "active",
+      "userType": "BUYER",
+      "registeredBy": "system"
+    },
+    {
+      "username": "kri456",
+      "password": "123456",
+      "email": "krish12@gmail.com",
+      "firstName": "Krishmal",
+      "lastName": "Dinidu",
+      "dateRegistered": "2025-04-26 21:27:52",
+      "lastLogin": "2025-04-26 21:27:52",
+      "status": "active",
+      "userType": "BUYER",
+      "registeredBy": "Krishmal2004"
+    },
+    {
+      "username": "456kri",
+      "password": "123456789",
+      "email": "kri32@gmail.com",
+      "firstName": "kri",
+      "lastName": "dini",
+      "dateRegistered": "2025-04-26 21:27:52",
+      "lastLogin": "2025-04-26 21:27:52",
+      "status": "active",
+      "userType": "BUYER",
+      "registeredBy": "Krishmal2004"
+    },
+    {
+      "username": "kala123",
+      "password": "123456",
+      "email": "kala@gmail.com",
+      "firstName": "kala",
+      "lastName": "kri",
+      "dateRegistered": "2025-04-26 21:27:52",
+      "lastLogin": "2025-04-26 21:27:52",
+      "status": "active",
+      "userType": "VENDOR",
+      "registeredBy": "Krishmal2004",
+      "vendorDetails": {
+        "businessName": "Hii",
+        "businessType": "CATERING",
+        "description": "hii",
+        "contactNumber": "123456789",
+        "services": ["photography", "catering"],
+        "rating": 0.0,
+        "reviewCount": 0
+      }
+    }
+  ],
+  "lastUpdated": "2025-04-26 21:27:52"
+}
